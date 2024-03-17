@@ -1,0 +1,4 @@
+baseURL = 'https://deciml.org/'
+languageCode = 'en-us'
+title = 'DeciML'
+theme = 'hugo-book'
